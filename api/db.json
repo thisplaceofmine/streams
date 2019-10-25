@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "world",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "this is another stream",
+      "id": 2
+    },
+    {
+      "title": "Create a New stream",
+      "description": "this is unexpected",
+      "userId": "117763794099870984262",
+      "id": 5
+    },
+    {
+      "title": "this is after",
+      "description": "this is after",
+      "userId": "117763794099870984262",
+      "id": 6
+    }
+  ]
+}
